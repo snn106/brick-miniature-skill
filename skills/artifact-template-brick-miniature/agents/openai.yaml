@@ -1,0 +1,7 @@
+interface:
+  display_name: "微缩积木场景 Brick Miniature"
+  short_description: "Create images with the 微缩积木场景 Brick Miniature template"
+  icon_large: "./assets/preview.png"
+  default_prompt: "Use $artifact-template-brick-miniature to create an image with this template."
+policy:
+  allow_implicit_invocation: true
